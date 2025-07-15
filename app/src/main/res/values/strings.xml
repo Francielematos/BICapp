@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BIC App</string>
+    <string name="app_logo">Logo do aplicativo</string>
+    <string name="app_subtitle">Boletim de Inscrição Cadastral</string>
+    <string name="start_new_questionnaire">Iniciar Novo Questionário</string>
+    <string name="continue_questionnaire">Continuar Questionário</string>
+    <string name="report_history">Histórico de Relatórios</string>
+    <string name="version_info">Versão 1.0</string>
+    
+    <!-- Questionnaire -->
+    <string name="questionnaire_title">Questionário BIC</string>
+    <string name="section_identification">Identificação do Imóvel</string>
+    <string name="section_address">Endereço</string>
+    <string name="section_contributor">Contribuinte</string>
+    <string name="section_sketch">Croqui</string>
+    <string name="section_permit">Alvará</string>
+    <string name="section_networks">Redes e Serviços</string>
+    <string name="section_terrain">Características do Terreno</string>
+    <string name="section_building">Edificação</string>
+    <string name="section_observations">Observações</string>
+    
+    <!-- Form Fields -->
+    <string name="qte">QTE</string>
+    <string name="qla">QLA</string>
+    <string name="sector">Setor</string>
+    <string name="block">Quadra</string>
+    <string name="lot">Lote</string>
+    <string name="unit">Unidade</string>
+    <string name="neighborhood_code">Cód. Bairro</string>
+    <string name="neighborhood">Bairro</string>
+    <string name="street_code">Cód. Logradouro</string>
+    <string name="street">Logradouro</string>
+    <string name="old_number">Nº. Antigo</string>
+    <string name="smn_number">Nº. (S.M.N.)</string>
+    <string name="complement">Complemento</string>
+    <string name="zip_code">CEP</string>
+    <string name="cpf_cnpj">CPF/CNPJ</string>
+    
+    <!-- Navigation -->
+    <string name="previous">Anterior</string>
+    <string name="next">Próximo</string>
+    <string name="save">Salvar</string>
+    <string name="finish">Finalizar</string>
+    <string name="generate_pdf">Gerar PDF</string>
+    
+    <!-- Messages -->
+    <string name="questionnaire_saved">Questionário salvo com sucesso</string>
+    <string name="pdf_generated">PDF gerado com sucesso</string>
+    <string name="error_generating_pdf">Erro ao gerar PDF</string>
+    <string name="field_required">Campo obrigatório</string>
+    
+    <!-- History -->
+    <string name="no_reports">Nenhum relatório encontrado</string>
+    <string name="delete_report">Excluir relatório</string>
+    <string name="share_report">Compartilhar relatório</string>
+    
+    <!-- Permissions -->
+    <string name="camera_permission_required">Permissão de câmera necessária</string>
+    <string name="storage_permission_required">Permissão de armazenamento necessária</string>
+</resources>
+
